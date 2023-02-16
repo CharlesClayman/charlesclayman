@@ -1,5 +1,5 @@
 [![MasterHead](https://images.pexels.com/photos/6424586/pexels-photo-6424586.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)]
-<h1 align="center">Hi 👋, I'm Charles Clayman</h1>
+<h1 align="center">Hi 👋, I'm Charles Arko-Clayman Clayman</h1>
 <h3 align="center">A passionate fullstack developer from Ghana</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
