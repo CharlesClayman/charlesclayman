@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/claymanarko" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="claymanarko" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/charles arko-clayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles arko-clayman" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/charles-arko-clayman-525656215/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="charles arko-clayman" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/11968859" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:11968859" height="30" width="40" /></a>
 <a href="https://fb.com/charles arko-clayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="charles arko-clayman" height="30" width="40" /></a>
 <a href="https://instagram.com/charles_clayman" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="charles_clayman" height="30" width="40" /></a>
