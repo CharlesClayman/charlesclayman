@@ -7,7 +7,7 @@
 
 
 
-- 🔭 I’m currently working on [Skuuni](https://play.google.com/store/apps/details?id=com.trinitysoftwarecenter.skuuni.skuuni&pli=1)
+- 🔭 I’m currently working on [Trinvoice](https://play.google.com)
 
 - 🌱 I’m currently learning **Node JS ,express and mongo db**
 
